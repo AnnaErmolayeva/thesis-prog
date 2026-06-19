@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the following metadata."
+title: "ConferenceRanking: Mathematical Modeling and Calibration of Conference Ranking Dynamics"
+version: 1.0.0
+date-released: 2026-05-04
+doi: 10.5281/zenodo.20025331
+authors:
+  - family-names: "Ermolayeva"
+    given-names: "Anna"
+    affiliation: "Peoples' Friendship University of Russia (RUDN University)"
+    orcid: "https://orcid.org/0000-0001-6107-6461"
+license: CC-BY-4.0
+repository-code: "https://github.com/AnnaErmolayeva/thesis-prog"
+keywords:
+  - conference ranking
+  - mathematical modeling
+  - ODE
+  - calibration
+  - Julia
+  - DrWatson
