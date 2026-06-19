@@ -1,0 +1,46 @@
+{
+	"title": "ConferenceRanking: Mathematical Modeling and Calibration of Conference Ranking Dynamics",
+	"description": "This repository contains the code and data for modeling and calibrating the dynamics of conference rankings. The model is a system of ordinary differential equations (ODEs) accounting for logistic growth, cumulative advantage, and asymmetric competition. Calibration is performed on real citation data (CPP – citations per paper) from 2011 to 2020 using the LBFGS optimization method. The project is implemented in Julia with the DrWatson framework for reproducibility.",
+	"creators": [
+		{
+			"name": "Ermolayeva, Anna",
+			"affiliation": "Peoples' Friendship University of Russia (RUDN University)",
+			"orcid": "0000-0001-6107-6461"
+		}
+	],
+	"contributors": [
+		{
+			"name": "Ermolayeva, Anna",
+			"affiliation": "Peoples' Friendship University of Russia (RUDN University)",
+			"orcid": "0000-0001-6107-6461"
+		}
+	],
+	"keywords": [
+		"conference ranking",
+		"mathematical modeling",
+		"ordinary differential equations",
+		"calibration",
+		"citation data",
+		"Julia",
+		"DrWatson",
+		"cumulative advantage",
+		"asymmetric competition"
+	],
+	"license": "CC-BY-4.0",
+	"publication_date": "2026-05-04",
+	"version": "1.0.0",
+	"language": "eng",
+	"related_identifiers": [
+		{
+			"identifier": "10.5281/zenodo.20025331",
+			"relation": "isVersionOf",
+			"scheme": "doi"
+		}
+	],
+	"communities": [
+		{
+			"identifier": "rudn-university"
+		}
+	],
+	"access_right": "open"
+}
