@@ -1,6 +1,6 @@
 {
     "name": "thesis-prog",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Progs for PhD thesis",
     "main": "index.js",
     "repository": "git@github.com:AnnaErmolayeva/thesis-prog.git",
